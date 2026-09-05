@@ -1,0 +1,6 @@
+{
+  "name": "EventFlow AI",
+  "description": "Intelligent mega-event hospitality orchestration and crowd capacity management platform with real-time predictive heatmaps, what-if simulations, and attendee navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
